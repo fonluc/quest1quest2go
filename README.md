@@ -1,4 +1,4 @@
-### Problemas Númericos com Go (Desafio 1)
+### Problemas Numéricos com Go (Desafio 1)
 
 Criada a pasta quest1 dentro da pasta src, aberto o VS Code e criado um arquivo quest1.go com o seguinte código:
 
@@ -49,7 +49,7 @@ Depois foi aberto o Terminal e dados os comandos: “go build quest1.go” e “
 96
 99”
 
-### Problemas Númericos com Go (Desafio 2)
+### Problemas Numéricos com Go (Desafio 2)
 
 Criada a pasta quest2 dentro da pasta src, aberto o VS Code e criado um arquivo quest2.go com o seguinte código:
 
